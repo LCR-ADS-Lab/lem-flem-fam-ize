@@ -1,0 +1,14 @@
+they_PRON
+be_AUX
+on_ADP
+time_NOUN
+he_PRON
+be_AUX
+at_ADP
+the_DET
+station_NOUN
+i_PRON
+be_AUX
+on_ADP
+the_DET
+way_NOUN

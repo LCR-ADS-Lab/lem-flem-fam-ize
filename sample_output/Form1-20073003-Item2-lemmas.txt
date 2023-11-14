@@ -1,0 +1,271 @@
+study_VERB
+subject_NOUN
+that_PRON
+interste_VERB
+in_ADP
+be_AUX
+the_DET
+opinon_NOUN
+that_PRON
+ _SPACE
+i_PRON
+stand_VERB
+for_ADP
+and_CCONJ
+support_NOUN
+for_ADP
+the_DET
+following_NOUN
+reason_NOUN
+creativity_NOUN
+ability_NOUN
+to_PART
+invent_VERB
+and_CCONJ
+careness_NOUN
+                                                                                                                _SPACE
+creativity_NOUN
+be_AUX
+the_DET
+major_ADJ
+part_NOUN
+in_ADP
+the_DET
+discovery_NOUN
+of_ADP
+alot_NOUN
+of_ADP
+material_NOUN
+and_CCONJ
+equipment_NOUN
+in_ADP
+last_ADJ
+three_NUM
+decade_NOUN
+for_ADP
+example_NOUN
+the_DET
+great_ADJ
+development_NOUN
+ _SPACE
+in_ADP
+technology_NOUN
+of_ADP
+computer_NOUN
+ _SPACE
+be_AUX
+direct_ADJ
+outcome_NOUN
+of_ADP
+the_DET
+creativity_NOUN
+because_SCONJ
+all_DET
+the_DET
+recent_ADJ
+study_NOUN
+show_VERB
+that_SCONJ
+to_PART
+be_AUX
+successful_ADJ
+in_ADP
+certain_ADJ
+area_NOUN
+or_CCONJ
+field_NOUN
+you_PRON
+have_AUX
+have_VERB
+to_PART
+be_AUX
+creative_ADJ
+                                          _SPACE
+ability_NOUN
+to_PART
+invent_VERB
+new_ADJ
+theory_NOUN
+show_VERB
+that_SCONJ
+many_ADJ
+people_NOUN
+who_PRON
+ _SPACE
+go_VERB
+for_ADP
+the_DET
+field_NOUN
+of_ADP
+interest_NOUN
+they_PRON
+ _SPACE
+well_ADV
+succeed_VERB
+in_ADP
+thi_ADJ
+life_NOUN
+and_CCONJ
+thi_ADJ
+outcome_NOUN
+to_ADP
+the_DET
+society_NOUN
+have_VERB
+direct_ADJ
+impact_NOUN
+on_ADP
+the_DET
+devlopment_NOUN
+ _SPACE
+in_ADP
+many_ADJ
+facet_NOUN
+of_ADP
+studys_PROPN
+ _SPACE
+for_ADP
+example_NOUN
+eduacaation_NOUN
+system_NOUN
+in_ADP
+ _SPACE
+u.s.a_PROPN
+direct_VERB
+to_ADP
+the_DET
+benfit_NOUN
+of_ADP
+the_DET
+humanbieng_NOUN
+because_SCONJ
+it_PRON
+allow_VERB
+the_DET
+student_NOUN
+ _SPACE
+in_ADP
+the_DET
+primary_ADJ
+school_NOUN
+to_PART
+go_VERB
+through_ADP
+ _SPACE
+differnt_VERB
+ _SPACE
+topic_NOUN
+so_SCONJ
+as_SCONJ
+to_PART
+prepare_VERB
+he_PRON
+or_CCONJ
+she_PRON
+for_ADP
+this_DET
+type_NOUN
+of_ADP
+challenge_NOUN
+ _SPACE
+when_SCONJ
+he_PRON
+or_CCONJ
+she_PRON
+can_AUX
+choose_VERB
+easily_ADV
+when_SCONJ
+they_PRON
+come_VERB
+to_ADP
+the_DET
+point_NOUN
+of_ADP
+decision_NOUN
+-maker_NOUN
+                      _SPACE
+careness_NOUN
+be_AUX
+the_DET
+last_ADJ
+but_CCONJ
+not_PART
+the_DET
+least_ADJ
+point_NOUN
+ _SPACE
+to_PART
+go_VERB
+throughly_ADV
+ _SPACE
+in_ADP
+application_NOUN
+of_ADP
+all_DET
+the_DET
+intert_ADJ
+ _SPACE
+you_PRON
+gain_VERB
+in_ADP
+the_DET
+whole_ADJ
+life_NOUN
+to_PART
+practise_VERB
+in_ADP
+the_DET
+field_NOUN
+ _SPACE
+of_ADP
+your_PRON
+favorite_ADJ
+for_ADP
+instance_NOUN
+careness_NOUN
+be_AUX
+ _SPACE
+key_ADJ
+point_NOUN
+to_ADP
+the_DET
+success_NOUN
+in_ADP
+all_DET
+aspect_NOUN
+ _SPACE
+or_CCONJ
+ _SPACE
+goal_NOUN
+s_NOUN
+ _SPACE
+in_ADP
+the_DET
+history_NOUN
+ _SPACE
+of_ADP
+ _SPACE
+the_DET
+humanity_NOUN
+                           _SPACE
+all_PRON
+in_ADV
+all_DET
+ _SPACE
+few_ADJ
+point_NOUN
+s_PRON
+ _SPACE
+have_AUX
+be_AUX
+ _SPACE
+mention_VERB
+ _SPACE
+like_ADP
+careness_NOUN
+creativity_NOUN
+ability_NOUN
+to_PART
+invent_VERB
+ _SPACE
